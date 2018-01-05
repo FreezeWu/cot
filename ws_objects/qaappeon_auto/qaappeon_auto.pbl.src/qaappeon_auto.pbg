@@ -1,0 +1,20 @@
+﻿Save Format v3.0(19990112)
+@begin Libraries
+ "qaappeon_auto.pbl" "";
+@end;
+@begin Objects 
+ "qaappeon_auto.sra" "qaappeon_auto.pbl";
+ "d_testcase_list.srd" "qaappeon_auto.pbl";
+ "d_testcase_result.srd" "qaappeon_auto.pbl";
+ "d_window_autoexe.srd" "qaappeon_auto.pbl";
+ "d_window_free.srd" "qaappeon_auto.pbl";
+ "d_window_list.srd" "qaappeon_auto.pbl";
+ "dddw_window.srd" "qaappeon_auto.pbl";
+ "m_maintance_frame.srm" "qaappeon_auto.pbl";
+ "str_parm_windowid.srs" "qaappeon_auto.pbl";
+ "w_maintance_autoexe.srw" "qaappeon_auto.pbl";
+ "w_maintance_frame.srw" "qaappeon_auto.pbl";
+ "w_maintance_result.srw" "qaappeon_auto.pbl";
+ "w_maintance_testcase.srw" "qaappeon_auto.pbl";
+ "w_maintance_window.srw" "qaappeon_auto.pbl";
+@end;

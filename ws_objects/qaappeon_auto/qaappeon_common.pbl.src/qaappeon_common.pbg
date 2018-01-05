@@ -1,0 +1,9 @@
+﻿Save Format v3.0(19990112)
+@begin Libraries
+ "qaappeon_common.pbl" "";
+@end;
+@begin Objects 
+ "d_testcase_windowlist.srd" "qaappeon_common.pbl";
+ "w_base.srw" "qaappeon_common.pbl";
+ "w_testcase_base.srw" "qaappeon_common.pbl";
+@end;

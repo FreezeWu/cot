@@ -1,0 +1,8 @@
+Save Format v3.0(19990112)
+@begin Unchecked
+@end;
+@begin Targets
+ 0 "qaappeon_auto\\qaappeon_auto.pbt";
+@end;
+DefaultTarget "qaappeon_auto\\qaappeon_auto.pbt";
+DefaultRemoteTarget "qaappeon_auto\\qaappeon_auto.pbt";

@@ -1,0 +1,3 @@
+﻿-----Test Point:aws_p001_clearlog-----
+添加日志前ieon_aws.of_clearlog()= -1
+添加日志后ieon_aws.of_clearlog()= -1

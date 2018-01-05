@@ -1,0 +1,5 @@
+﻿$PBExportHeader$str_parm_windowid.srs
+global type str_parm_windowid from structure
+	integer		i_windowid[]
+end type
+

@@ -1,0 +1,16 @@
+﻿Save Format v3.0(19990112)
+@begin Libraries
+ "qaappeon_mobile_window1.pbl" "";
+@end;
+@begin Objects 
+ "w_mobile_aws.srw" "qaappeon_mobile_window1.pbl";
+ "w_mobile_barcode.srw" "qaappeon_mobile_window1.pbl";
+ "w_mobile_connection.srw" "qaappeon_mobile_window1.pbl";
+ "w_mobile_device.srw" "qaappeon_mobile_window1.pbl";
+ "w_mobile_gps.srw" "qaappeon_mobile_window1.pbl";
+ "w_mobile_map.srw" "qaappeon_mobile_window1.pbl";
+ "w_mobile_notification.srw" "qaappeon_mobile_window1.pbl";
+ "w_mobile_offline.srw" "qaappeon_mobile_window1.pbl";
+ "w_mobile_textchecker.srw" "qaappeon_mobile_window1.pbl";
+ "w_mobile_webview.srw" "qaappeon_mobile_window1.pbl";
+@end;
